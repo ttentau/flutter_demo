@@ -1,6 +1,6 @@
 # flutter_demo
 
-lutter_demo
+flutter_demo
 
 ## Getting Started
 
